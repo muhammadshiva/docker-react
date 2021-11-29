@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Develop By Muhammad Shiva TI3D
+Develop By Muhammad Shiva TI3D Polinema
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
